@@ -1,0 +1,4 @@
+"emergency_id";"patient_id";"disease";"severity_level";"assigned_doctor_id";"assigned_nurse_id";"status";"created_at"
+3;1;"Heart Attack";5;1;1;"pending";"2026-01-20 14:35:17"
+4;1;"Heart Attack";5;1;1;"assigned";"2026-01-26 11:57:50"
+5;2;"Stroke";4;2;3;"assigned";"2026-01-26 11:57:50"

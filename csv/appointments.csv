@@ -1,0 +1,5 @@
+"appointment_id";"patient_id";"doctor_id";"appointment_date";"appointment_time";"status";"payment_status"
+1;1;1;"2025-01-20";"10:30:00";"booked";"paid"
+2;1;1;"2025-01-20";"10:00:00";"booked";"paid"
+3;2;2;"2025-01-21";"11:30:00";"completed";"paid"
+4;3;3;"2025-01-21";"11:30:00";"booked";"paid"

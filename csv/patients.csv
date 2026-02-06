@@ -1,0 +1,6 @@
+"patient_id";"user_id";"age";"gender";"contact";"address"
+1;1;25;"male";"9876543210";"Chennai"
+2;4;28;"male";"9876543210";"Chennai"
+3;5;35;"female";"9876543211";"Bangalore"
+4;6;42;"male";"9876543212";"Hyderabad"
+5;7;30;"female";"9876543213";"Coimbatore"

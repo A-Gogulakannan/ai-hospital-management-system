@@ -1,0 +1,7 @@
+"history_id";"patient_id";"disease";"symptoms";"admission_date";"discharge_date";"department"
+1;1;"Hypertension";"Headache, dizziness";"2025-01-05";"2025-01-10";"Cardiology"
+2;2;"Hypertension";"Headache, dizziness";"2025-01-02";"2025-01-06";"Cardiology"
+3;2;"Diabetes";"Fatigue, thirst";"2024-10-10";"2024-10-14";"Endocrinology"
+4;3;"Migraine";"Head pain, nausea";"2025-01-05";"2025-01-07";"Neurology"
+5;4;"Heart Disease";"Chest pain";"2024-12-20";"2024-12-28";"Cardiology"
+6;5;"Anxiety";"Restlessness, fear";"2025-01-01";"2025-01-03";"Psychiatry"

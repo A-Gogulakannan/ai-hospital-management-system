@@ -1,0 +1,4 @@
+"doctor_id";"user_id";"specialization";"experience_years";"availability_status";"consultation_fee"
+1;2;"Cardiology";12;1;800.0
+2;8;"Cardiology";12;1;800.0
+3;9;"Neurology";9;1;700.0

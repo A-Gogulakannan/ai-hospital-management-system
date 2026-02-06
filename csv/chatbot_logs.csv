@@ -1,0 +1,3 @@
+"chat_id";"user_id";"query";"response";"timestamp"
+1;5;"I want to book an appointment";"Sure, please select a doctor and date";"2026-01-26 12:00:02"
+2;6;"What are the cardiology timings?";"Cardiology department works from 9 AM to 5 PM";"2026-01-26 12:00:02"
